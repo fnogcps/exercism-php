@@ -1,0 +1,17 @@
+{
+    "name": "virtual/exercism-php",
+    "autoload": {
+        "psr-4": {
+            "Exercism\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Nogueira",
+            "email": "contato.fnog@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
